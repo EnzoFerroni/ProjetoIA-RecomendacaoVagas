@@ -1,4 +1,4 @@
-# Sistema de Recomendação Inteligente de Vagas
+# SISTEMA DE RECOMENDAÇÃO INTELIGENTE DE OPORTUNIDADES PROFISSIONAIS PARA O MERCADO DE TECNOLOGIA
 
 Este repositório contém os artefatos do projeto desenvolvido para a disciplina de Inteligência Artificial (7°K SI - Noite) da Universidade Presbiteriana Mackenzie, ministrada pelo Prof. Dr. Leandro Zerbinatti.
 

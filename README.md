@@ -23,3 +23,11 @@ Descrição: A base consolida 50.000 anúncios de emprego reais/simulados, abran
 Atributos principais: Título da vaga, Habilidades exigidas (Skills), Setor (Industry) e Nível de Experiência.
 
 Uso: Servirá como o catálogo base (itens) para o qual o algoritmo calculará a similaridade de cosseno com o input (currículo) do usuário.
+
+## 🔗 Links
+
+### 💾 Base de Dados (Kaggle): [AI-Powered Job Recommendations](https://www.kaggle.com/datasets/samayashar/ai-powered-job-recommendations/data)
+
+### 📄 Documentação Completa: [Leia o PDF na pasta docs/](docs/ProjetoIA.pdf)
+
+### 🎬 Apresentação do Projeto: [Link Youtube](https://www.youtube.com/watch?v=U4bau8jKEr0)
